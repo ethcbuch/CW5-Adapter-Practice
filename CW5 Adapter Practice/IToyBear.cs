@@ -1,4 +1,8 @@
-﻿using System;
+﻿//Ethan Buchanan
+//2-10-23
+//ToyBear interface and the classes that implement it
+
+using System;
 
 namespace AdapterPractice
 {

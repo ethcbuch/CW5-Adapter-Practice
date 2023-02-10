@@ -1,4 +1,8 @@
-﻿using System;
+﻿//Ethan Buchanan
+//2-10-23
+//Main, tests the two interfaces and the Adapter
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
